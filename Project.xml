@@ -2,11 +2,11 @@
 <sharpUpdate> 
     <update appID="TestApp"> 
         <version>10.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
+        <url>https://raw.githubusercontent.com/CaArMo0NaA/Proyecto/master/TestApp.exe</url> 
         <fileName>TestApp.exe</fileName> 
-        <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
-        <description>Update: 06/19/2014:
-        1. Added notification message when the current version is already the latest.</description> 
+        <md5>6e0426e2043fcda6af27db9fa0cb4568</md5>
+        <description>Update: 15/09/2015:
+        Primera actualización 10.00.00.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
